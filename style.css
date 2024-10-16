@@ -1,0 +1,158 @@
+header{
+    background: url(https://th.bing.com/th/id/R.78a774016b2d3f2fe93aa10859f47189?rik=GDQWjS0iGsQnTw&riu=http%3a%2f%2fwww.contemporarywebsites.com%2fwp-content%2fuploads%2f2012%2f07%2fcontemporary-websites-header-background.png&ehk=MJR9O82QGJlwUiXBxfiHGyck5ScjW3vK9H6jKlkR1rg%3d&risl=&pid=ImgRaw&r=0);
+    height:100px;
+    position:sticky;
+    width:100%;
+ 
+    
+}
+.logo-container{
+    display: flex;
+    flex-direction: row;
+}
+.title{
+    font-size: 30px;
+    font-style:italic;
+    color: rgb(7, 7, 7);
+    text-shadow: #0e0f0e;
+    text-decoration:underline;
+}
+.logo{
+    height:100px;
+    width:10%;
+    background-color: aqua;
+   
+    
+    position: relative;
+    right:1%;
+   
+}
+
+.flex-container{
+    display: flex;
+    flex-direction: row;
+   
+    justify-content: center;
+    gap: 50px;
+    position: relative;
+    row-gap: 70px;
+    bottom:60%;
+    left:15%;
+    
+   
+    
+    
+}
+.nav{
+    color: rgb(25, 26, 27);
+    font-weight: bold;
+}
+.section1{
+    background-color:#f5f6f3;
+    background: url(https://png.pngtree.com/background/20210710/original/pngtree-creative-flat-travel-tour-world-banner-picture-image_1039722.jpg);
+    height:100%;
+    
+}
+.char{
+    height:100%;
+    width:50%;
+    border-radius: 30%;
+}
+.search{
+    position: relative;
+    top:30%
+   
+}
+video{
+    width:100%;
+    height:200px;
+}
+.container{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-around;
+   
+    
+    
+}
+.section{
+    
+    padding:2px;
+    width:30%;
+    height:500px;
+    
+    
+    
+}
+.section2{
+   
+    padding:2px;
+    width:30%;
+    height:300px;
+    margin-top: 10px;
+    
+    
+    
+}
+.image1{
+    height:40%;
+    width:100%;
+    text-align: end;
+    margin-top: 10px;
+    
+    
+}
+.image2{
+    height:60%;
+    width:100%;
+}
+.para{
+    font-weight: bold;
+    
+}
+.heading{
+    background-color: aliceblue;
+    color: brown;
+}
+p{
+    width:90%;
+    
+    
+}
+h1{
+
+    width:90%;
+  
+   text-align: center;
+
+}
+a:link{
+    color:black;
+}
+.destination-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+    
+}
+.dest-title{
+    text-align: left;
+}
+.places{
+    background: url(https://www.elegantthemes.com/blog/wp-content/uploads/2013/09/bg-9-full.jpg);
+    height:100%;
+
+}
+.timing{
+    border:2px solid;
+    padding:10px;
+    height:20px;
+    width:10%;
+
+}
+a{
+    text-decoration: none;
+    
+
+}
